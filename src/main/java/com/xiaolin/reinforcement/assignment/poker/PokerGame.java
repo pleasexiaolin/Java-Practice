@@ -4,7 +4,7 @@ import java.util.*;
 
 /**
  * @author lzh
- * @description: TODO
+ * @description: 扑克
  * @date 2025/11/4 17:04
  */
 public class PokerGame {
